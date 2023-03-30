@@ -1,5 +1,5 @@
 # Operator Input
-This repo contains code for running the stroke rehabilitation system on Pepper. The operator input replaces any sensing software used in the squash system, and allows the operator to signal completion of each exercise repitition to the robot. Written in Python 3. The main code for the robotic coach can be found here: https://github.com/M4rtinR/Robotic-Exercise-Coach-Pepper/blob/master/README.md.
+This repo contains code for running the stroke rehabilitation system on Pepper. The operator input replaces any sensing software used in the squash system, and allows the operator to signal completion of each exercise repitition to the robot. Written in Python 3. The main code for the robotic coach can be found here: https://github.com/M4rtinR/Robotic-Exercise-Coach-Pepper.
 
 ## Downloading the Code
 Similar to the main robotic coach code, clone the robot test repo into a new Pycharm project. 
